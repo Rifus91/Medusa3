@@ -13,6 +13,7 @@ namespace Sandbox
             public int Y;
             public int Z;
             public int Radius;
+            int test;
             
             public Medusa(string s)
             {
